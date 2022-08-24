@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.tab_button {
+  width: 208px;
+  padding: 10px 20px;
+  border: none;
+  outline: none;
+  color: black;
+  font-weight: bold;
+  margin-top: 20px;
+  letter-spacing: 1px;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0.3);
+  transition: 0.3s;
+  cursor: pointer;
+}
